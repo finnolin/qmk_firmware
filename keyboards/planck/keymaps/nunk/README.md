@@ -1,2 +1,2 @@
-#NUNK Keymap
+#The nunk keymap
 finnolin@gmail.com
